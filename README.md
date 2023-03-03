@@ -1,2 +1,3 @@
 # Computer-Architecture-CS-F342
 This project is being done as a part of the course Computer Architecture CS F342 in my 6th semester of B.E. Electronics and Electrical Engineering, in BITS Pilani, Goa Campus. The project focuses on development/simulation of a Single Cycle MIPS Processor on the hardware description language Verilog. More stuff (Implementation of Pipelining, etc.) to be added!
+The Lab folders contain the assignment to be implemented, along with the final waveforms obtained. The files not in any folder, constitute the simulation sources, as created by Xilinx Vivado 2023 ML Edition, which was used as an IDE for Verilog.
